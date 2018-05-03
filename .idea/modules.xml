@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fazolli-command/fazolli-command.iml" filepath="$PROJECT_DIR$/fazolli-command/fazolli-command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fazolli-logger/fazolli-logger.iml" filepath="$PROJECT_DIR$/fazolli-logger/fazolli-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fazolli-project.iml" filepath="$PROJECT_DIR$/fazolli-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fazolli-rules-enforces/fazolli-rules-enforces.iml" filepath="$PROJECT_DIR$/fazolli-rules-enforces/fazolli-rules-enforces.iml" />
+    </modules>
+  </component>
+</project>

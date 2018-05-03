@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fazolli-command" />
+        <module name="fazolli-logger" />
+        <module name="fazolli-rules-enforces" />
+        <module name="fazollirulesenforces" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fazolli-command" target="1.8" />
+      <module name="fazolli-logger" target="1.5" />
+      <module name="fazolli-project" target="1.5" />
+      <module name="fazolli-rules-enforces" target="1.5" />
+      <module name="fazolliproject" target="1.5" />
+      <module name="fazollirulesenforces" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
